@@ -10,3 +10,5 @@ Primeiro se aprende como pensar e programar de forma lógica, aprendendo a monta
 ### 👾Estrutura "vetor"
 ![Captura de tela 2024-10-09 074531](https://github.com/user-attachments/assets/cac7c56c-d332-448f-9cc0-2c68834d8d7e)
 
+### 👾Estrutura "para"
+![alt text](<Captura de tela 2024-10-11 101034.png>)
